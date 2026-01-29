@@ -1,5 +1,8 @@
 # Incedent-handler-s-journal
 
+Incedent handler's journal: [Incident handler's journal.pdf](https://github.com/user-attachments/files/24941973/Incident.handler.s.journal.pdf)
+
+
 ### Project Description
 
 This project was completed as part of the Google Cybersecurity Certificate program.
