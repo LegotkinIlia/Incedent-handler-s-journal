@@ -24,5 +24,6 @@ During this project, I maintained an Incident Handler’s Journal to document fi
 
 -Professional documentation practices
 
-📄 Full Incident Report: [Completed incident handler's journal exemplar  (1).pdf](https://github.com/user-attachments/files/24941911/Completed.incident.handler.s.journal.exemplar.1.pdf)
+Incedent handler's journal: [Incident handler's journal.pdf](https://github.com/user-attachments/files/24941973/Incident.handler.s.journal.pdf)
+
 
